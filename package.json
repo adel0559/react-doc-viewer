@@ -1,17 +1,12 @@
 {
-  "name": "@adel0559/react-doc-viewer",
-  "version": "1.10.3",
+  "name": "@swacedigital/react-doc-viewer",
+  "version": "1.0.0",
   "description": "File viewer for React.",
-  "author": "Matthew Mogford / Damian Cyntler",
   "keywords": [
     "reactjs",
     "file-viewer"
   ],
   "license": "Apache License 2.0",
-  "homepage": "https://cyntler.github.io/react-doc-viewer",
-  "repository": {
-    "url": "https://github.com/cyntler/react-doc-viewer"
-  },
   "files": [
     "dist/**"
   ],
